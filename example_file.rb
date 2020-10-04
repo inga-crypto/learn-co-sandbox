@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
-puts "Hello World"
+<dl>
+  <dt>First term</dt>
+  <dd>Term definition</dd>
+</dl>
 
 
 
